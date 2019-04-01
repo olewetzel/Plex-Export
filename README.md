@@ -1,5 +1,7 @@
 # PLEX Export
 
+Forked by me: german translation
+
 Luke Lanchester <luke@lukelanchester.com>
 http://hybridlogic.co.uk/code/standalone/plex-export/
 
